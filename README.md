@@ -1,8 +1,6 @@
 # Nigeria-Real-Estate-Project
 
-My Data Science Project.  
-
-Nigeria-Real-Estate-Project (Data Sourcing ).
+__Data Sourcing:__
 
 In  a bit to replicate what I have done while 
 working on the first two projects in the Applied 
@@ -20,29 +18,16 @@ uploaded by Abdullahi Yunus.  https://lnkd.in/djmDdXVX
 This dataset contains House listings in Nigeria and their prices based 
 on Location and other parameters.  
 
-Datashape (24326, 8)==> 24,326 houses (rows) and 8 Parameters (columns) . 
+Datashape (24326, 8)==> 24,326 houses (rows) and 8 Features (columns) . 
  
-**PARAMETERS:**
+__Features:__
 
-✓Bedrooms -> number of bedrooms in the houses ‌‌
-
-✓ Bathrooms -> number of bathrooms in the houses ‌‌
-
-✓ Toilets -> number of toilets  ‌‌
-
-✓ Parking_space ‌‌
-
-✓ Title -> house type ‌‌
-
-✓ Town -> town in which the house is located ‌‌
-
-✓ State -> state within Nigeria in which the house is located, and finally
- ‌
-✓ Price -> the target column.  
-
-Now that our Dataset is ready, be on the look out for  my next post on how 
-I progressed in the project to creating a machine learning model that 
-predicts the price of Detached Duplex in Lagos State, Nigeria .   
-
-#datascience #machinelearning #project #realestate 
-#visualization #data #kaggle 
+* Bedrooms: number of bedrooms in the houses ‌‌
+* Bathrooms -> number of bathrooms in the houses ‌‌
+* Toilets -> number of toilets  ‌‌
+* Parking_space ‌‌
+* Title -> house type ‌‌
+* Town -> town in which the house is located ‌‌
+*  State -> state within Nigeria in which the house is located, and finally
+ ‌‌
+* Price -> the target column.  
